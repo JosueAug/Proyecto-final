@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="375mm"
+   height="150mm"
+   viewBox="0 0 375 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient52">
+      <stop
+         style="stop-color:#55d400;stop-opacity:1;"
+         offset="0"
+         id="stop48" />
+      <stop
+         style="stop-color:#55d400;stop-opacity:0;"
+         offset="1"
+         id="stop50" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient97">
+      <stop
+         style="stop-color:#338000;stop-opacity:1;"
+         offset="0"
+         id="stop93" />
+      <stop
+         style="stop-color:#338000;stop-opacity:0;"
+         offset="1"
+         id="stop95" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient59">
+      <stop
+         style="stop-color:#ccff00;stop-opacity:1;"
+         offset="0"
+         id="stop55" />
+      <stop
+         style="stop-color:#eeffaa;stop-opacity:1"
+         offset="1"
+         id="stop57" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient97"
+       id="radialGradient99"
+       cx="13.229166"
+       cy="157.05005"
+       fx="13.229166"
+       fy="157.05005"
+       r="14.785698"
+       gradientTransform="matrix(-1.1988616,1.2027386,-1.007084,-0.59275861,191.48907,234.27931)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient59"
+       id="radialGradient110"
+       cx="342.52594"
+       cy="40.196812"
+       fx="342.52594"
+       fy="40.196812"
+       r="187.47618"
+       gradientTransform="matrix(0.15725806,-0.25403225,0.97496766,0.60361004,91.018845,318.55003)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient52"
+       id="radialGradient54"
+       cx="3545.1111"
+       cy="595.52228"
+       fx="3545.1111"
+       fy="595.52228"
+       r="251.1027"
+       gradientTransform="matrix(-1.437899,-0.01742551,0.01339198,-0.28532706,5365.1201,383.67044)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="485.24654"
+     inkscape:cy="422.47492"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <rect
+       style="fill:url(#radialGradient110);fill-opacity:1;stroke-width:0.26458332"
+       id="rect53"
+       width="374.95236"
+       height="150.8125"
+       x="-6.0476136"
+       y="146.94345" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:54.86007309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient54);fill-opacity:1;stroke:none;stroke-width:1.3715018"
+       x="4.5853786"
+       y="175.25247"
+       id="text65"
+       transform="scale(0.71320564,1.4021201)"><tspan
+         sodipodi:role="line"
+         id="tspan63"
+         x="4.5853786"
+         y="175.25247"
+         style="fill:url(#radialGradient54);fill-opacity:1;stroke-width:1.3715018"> Curriculum Vitae</tspan><tspan
+         sodipodi:role="line"
+         x="4.5853786"
+         y="243.82756"
+         style="fill:url(#radialGradient54);fill-opacity:1;stroke-width:1.3715018"
+         id="tspan67" /></text>
+  </g>
+</svg>
